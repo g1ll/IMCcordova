@@ -1,6 +1,6 @@
 body{font-size:2em}
 .iconnormal{font-size: 3em}
-.fat{ color: red;}
+.fat{ color: red; border: dotted 2px red}
 .over{ color: orange}
 .normal{color:green}
 .iconfat{font-size: 5em}
