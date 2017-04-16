@@ -67,6 +67,14 @@
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
     <allow-intent href="market:*" />
+    <icon density="mdpi" src="www/res/android/icon/mdpi.png" />
+    <icon density="hdpi" src="www/res/android/icon/hdpi.png" />
+    <icon density="xhdpi" src="www/res/android/icon/xhdpi.png" />
+    <icon density="xxhdpi" src="www/res/android/icon/xxhdpi.png" />
+    <splash density="land-hdpi" src="www/res/android/screen/screen_hdpi.png" />
+    <splash density="land-ldpi" src="www/res/android/screen/screen_ldpi.png" />
+    <splash density="port-hdpi" src="www/res/android/screen/screen_port_hdpi.png" />
+    <splash density="port-ldpi" src="www/res/android/screen/screen_port_ldpi.png" />
     <preference name="loglevel" value="DEBUG" />
     <feature name="Whitelist">
         <param name="android-package" value="org.apache.cordova.whitelist.WhitelistPlugin" />
